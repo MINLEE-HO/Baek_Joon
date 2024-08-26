@@ -1,0 +1,13 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 1008
+ * Problem Name   : A/B
+ */
+public class Q_5 {
+	Scanner sc = new Scanner(System.in);
+	int a = sc.nextInt();
+	int b = sc.nextInt();
+	Sysout.
+}
