@@ -1,0 +1,21 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 10172
+ * Problem Name   : 개
+ */
+public class Q_14 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+		if (a>b) {
+			System.out.println(">");
+		} else if(a<b) {
+			System.out.println("<");
+		} else {
+			System.out.println("==");
+		}
+	}
+}

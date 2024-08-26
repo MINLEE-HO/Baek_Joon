@@ -1,0 +1,14 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 11382
+ * Problem Name   : 꼬마정민
+ */
+public class Q_11 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		System.out.print(a);
+	}
+}

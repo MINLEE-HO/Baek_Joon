@@ -1,0 +1,24 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 9498
+ * Problem Name   : 시험 성적
+ */
+public class Q_15 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		if (90 >= a || a <= 100 ) {
+			System.out.println("A");
+		} else if (80 >= a || a <= 89) {
+			System.out.println("B");
+		} else if (70 >= a || 79 <= a) {
+			System.out.println("C");
+		} else if (60 >= a || 69 <= a) {
+			System.out.println("D");
+		} else {
+			System.out.println("F");
+		}
+	}
+}

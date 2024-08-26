@@ -1,0 +1,22 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 2588
+ * Problem Name   : 곱셈
+ */
+public class Q_10 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		
+		int a = sc.nextInt();
+		String b = sc.next();
+		
+		int b1 = b.charAt(2);
+		int b2 = b.charAt(1);
+		int b3 = b.charAt(0);
+		
+		System.out.println(a*b1);
+		
+	}
+}

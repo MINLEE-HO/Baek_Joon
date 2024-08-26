@@ -1,0 +1,13 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 2588
+ * Problem Name   : 곱셈
+ */
+public class Q_10 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		
+	}
+}
