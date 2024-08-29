@@ -1,0 +1,10 @@
+package Java_;
+
+/* Problem Number : 14681
+ * Problem Name   : 사분면 고르기
+ */
+public class Q_17 {
+	public static void main(String argv[]) {
+		
+	}
+}

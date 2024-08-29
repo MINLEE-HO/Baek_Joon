@@ -1,0 +1,21 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 2562
+ * Problem Name   : 최댓값
+ */
+public class Q_35 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		int arr[] = new int[9];
+		
+		for (int i=0; i<9; i++) {
+			arr[i] = sc.nextInt();
+		}
+		
+		
+		
+	}
+
+}

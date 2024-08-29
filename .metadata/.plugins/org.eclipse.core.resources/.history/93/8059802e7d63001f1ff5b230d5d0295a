@@ -1,0 +1,11 @@
+package Java_;
+
+/* Problem Number : 10871
+ * Problem Name   : X보다 작은 수
+ */
+public class Q_33 {
+	public static void main(String argv[]) {
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package Java_;
+
+/* Problem Number : 10807
+ * Problem Name   : 개수 세기
+ */
+public class Q_32 {	
+	public static void main(String argv[]) {
+		
+	}
+
+}

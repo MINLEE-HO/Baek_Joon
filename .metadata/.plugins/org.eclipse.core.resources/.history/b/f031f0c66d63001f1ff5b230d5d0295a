@@ -1,0 +1,10 @@
+package Java_;
+
+/* Problem Number : 2480
+ * Problem Name   : 주사위 세개
+ */
+public class Q_20 {
+	public static void main(String argv[]) {
+		
+	}
+}

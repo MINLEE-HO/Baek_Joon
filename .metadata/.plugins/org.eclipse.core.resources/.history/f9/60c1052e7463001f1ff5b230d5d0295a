@@ -1,0 +1,19 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 11022
+ * Problem Name   : A+B -8
+ */
+public class Q_27 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		
+		for (int i=1; i<=n; i++) {
+			int a = sc.nextInt();
+			int b = sc.nextInt();
+			System.out.printf("Case #%d: %d + %d = %d", i,a,b,a+b);
+		}
+	}
+}

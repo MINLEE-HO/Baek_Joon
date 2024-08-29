@@ -1,0 +1,11 @@
+package Java_;
+
+/* Problem Number : 10951
+ * Problem Name   : A+B -4
+ */
+public class Q_31 {
+	public static void main(String argv[]) {
+		
+	}
+
+}

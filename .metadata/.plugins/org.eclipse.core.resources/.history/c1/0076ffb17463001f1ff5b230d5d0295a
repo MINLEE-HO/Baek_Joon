@@ -1,0 +1,16 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 2438
+ * Problem Name   : 별 찍기 -1
+ */
+public class Q_28 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		int star = sc.nextInt();
+		
+		
+	}
+
+}

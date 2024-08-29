@@ -1,0 +1,19 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 2480
+ * Problem Name   : 주사위 세개
+ */
+public class Q_20 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+		int c = sc.nextInt();
+		
+		if ( a=b ) {
+			
+		}
+	}
+}

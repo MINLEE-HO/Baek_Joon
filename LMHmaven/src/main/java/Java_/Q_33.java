@@ -1,0 +1,26 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 10871
+ * Problem Name   : X보다 작은 수
+ */
+public class Q_33 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		int N = sc.nextInt();
+		int X = sc.nextInt();
+		
+		int[] arr = new int[N];
+		
+		for (int i=0; i<N; i++) {
+			arr[i] = sc.nextInt();
+		}
+			
+		for (int j=0; j<N; j++) {
+			if (arr[j] < X) {
+				System.out.print(arr[j] + " ");
+			}
+		}
+	}
+}

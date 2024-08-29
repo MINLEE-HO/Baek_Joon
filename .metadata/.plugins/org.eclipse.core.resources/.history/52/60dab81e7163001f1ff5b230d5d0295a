@@ -1,0 +1,10 @@
+package Java_;
+
+/* Problem Number : 25314
+ * Problem Name   : 코딩은 체육과목 입니다
+ */
+public class Q_24 {
+	public static void main(String argv[]) {
+		
+	}
+}

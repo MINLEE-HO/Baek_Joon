@@ -1,0 +1,15 @@
+package Java_;
+
+import java.util.Scanner;
+
+/* Problem Number : 10818
+ * Problem Name   : 최소,최대
+ */
+public class Q_34 {
+	public static void main(String argv[]) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		
+		
+	}
+}

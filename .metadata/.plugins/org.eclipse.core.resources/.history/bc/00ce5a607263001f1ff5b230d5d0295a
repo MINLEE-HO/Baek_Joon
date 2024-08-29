@@ -1,0 +1,10 @@
+package Java_;
+
+/* Problem Number : 15552
+ * Problem Name   : 빠른 A+B
+ */
+public class Q_25 {
+	public static void main(String argv[]) {
+		
+	}
+}
